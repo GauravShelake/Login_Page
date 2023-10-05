@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url(./download.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.form{
+    height: 350px;
+    width: 300px;
+    padding-top: 45px;
+    padding-left: 50px;
+    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;;
+}
+.container{
+ 
+    margin-top: 150px;
+    margin-left: 550px;
+}
+.username{
+    
+}
+.btns{
+    
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-right: 10px;
+}
+.btn,.btn2{
+    color: white;
+    background-color: rgb(30, 26, 26);
+    border-radius: 5px 0px;
+}
